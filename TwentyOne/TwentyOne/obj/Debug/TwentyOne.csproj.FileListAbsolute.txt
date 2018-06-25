@@ -1,0 +1,7 @@
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
