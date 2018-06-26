@@ -5,3 +5,10 @@ c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debu
 c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 c:\users\reis\documents\visual studio 2017\Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
