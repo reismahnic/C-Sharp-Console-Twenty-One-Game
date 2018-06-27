@@ -8,6 +8,10 @@ namespace Casino
 {
     public class Player
     {
+        //Constructor for a player with a default balance of 100 unless otherwise specified (constructor chaining)
+        public Player(string name) : this(name, 100)
+        {
+        }
         //player constructor
         public Player(string name, int beginningBalance)
         {
@@ -21,6 +25,7 @@ namespace Casino
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         //Bet method
         public bool Bet(int amount)
