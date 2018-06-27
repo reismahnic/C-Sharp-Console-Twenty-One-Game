@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -22,6 +22,7 @@ namespace TwentyOne
             //Add logging every time a card is dealt
             using (StreamWriter file = new StreamWriter(@"C:\Users\Reis\Documents\TwentyOneGameLog.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
 

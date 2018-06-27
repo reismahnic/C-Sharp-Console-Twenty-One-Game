@@ -12,3 +12,6 @@ C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyO
 C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
