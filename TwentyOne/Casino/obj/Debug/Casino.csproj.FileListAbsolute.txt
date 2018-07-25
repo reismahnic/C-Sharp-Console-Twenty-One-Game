@@ -3,3 +3,4 @@ C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\Casino\
 C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\Reis\Documents\GitHub\C-Sharp-Console-Twenty-One-Game\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
